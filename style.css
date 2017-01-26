@@ -1,0 +1,125 @@
+.wrapper{
+	width: 970px;
+	height: 850px;
+	background-color: #264d73;
+	color: white;
+}
+.header{
+	display: block;
+}
+.logo{
+	display: inline-block;
+	margin: 30px 300px 0px 30px;
+}
+.header-box{
+	display: inline-block;
+	vertical-align: top;
+}
+.text-size{
+	margin-left: 75px;
+}
+.text-size p{
+	padding: 0px 5px 0px 5px;
+	font-size: 12px;
+}
+.search-box{
+	display: inline-block;
+	background-color: #595959;
+	width: 225px;
+	padding: 20px;
+	border-radius: 10px;
+	text-align: center;
+	border-bottom: 1px solid black;
+	border-right:1px solid black;
+}
+.search-box input{
+	height: 100px;
+	width: 150px;
+}
+.search-box button{
+	height: 30px;
+	width: 40px;
+	background-color: #264d73;
+	border-radius: 5px;
+	margin-left: 5px;
+}
+.nav-bar{
+	display: block;
+	width: 800px;
+	height: 50px;
+	background-color: #336699;
+	text-align: center;
+	margin-left: 80px;
+	border-radius: 10px;
+	border-bottom: 1px solid black;
+	border-right:1px solid black;
+}
+.nav-bar ul{
+	padding-top: 12px;
+}
+.nav-bar ul li{
+	display: inline;
+	padding-right: 22px;
+	font-size: 23px;
+}
+.nav-bar ul li:last-child{
+	margin-right: 25px;
+}
+.main-list{
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	text-decoration: none;
+	margin-top: 15px;
+}
+.main-list ul li{
+	list-style: none;
+	padding: 5px;
+	margin-left: 75px;
+	font-size: 17px;
+	color:white;
+}
+.content{
+	text-align: center;
+	display: inline-block;
+	width: 550px;
+	margin: 5px 0px 0px 25px;
+}
+.content h4{
+	color: #ffd633;
+	font-style: italic;
+	margin: 10px;
+}
+.sub-content{
+	width: 100%;
+	background-color: white;
+	text-align: center;
+	padding: 10px 10px 0px 10px;
+	color: black;
+	font-size: 15px;
+}
+.sub-content a{
+	color: #1ab2ff;
+}
+.box{
+	display: inline-block;
+	width:400px;
+	border-top:3px solid #6699cc;
+	vertical-align: top;
+	margin-right: 15px;
+}
+.footer {
+	display: block;
+	width: 100%;
+	height: 75px;
+	text-align: center;
+}
+.footer h4{
+	display: inline-block;
+	margin: 50px 20px 0px 20px;
+}
+.footer p{
+	padding: 5px;
+	font-size: 8px;
+}
+
